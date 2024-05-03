@@ -1,17 +1,39 @@
 .title{
     text-align: center;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: "Times New Roman" sans-serif;
+    background-color: black;
+    color: white;
+    box-sizing: border-box;
+    margin:50px;
+    border: 10px solid blueviolet;
+    margin-left: 300px;
+    margin-right: 300px;
 
+}
+*{
+    background-color:rgb(245, 192, 255);
 }
 
 .image{
     height:auto;
     width: 400px;
-    text-align: center;
+    margin-left: 200px;
+    border: 100px black;
+   
 
 
 }
 
 .kavin{
-    color: blue;
+    margin-left: 325px;
+    margin-right: 325px;
+    font-family: "Times New Roman" sans-serif;
+    text-align: center;
+    background-color: black;
+    color: white;
+    box-sizing: border-box;
+    border: 10px solid blueviolet;
+    box-sizing: border-box;
+    height:50px;
+    width:200px;
 }
